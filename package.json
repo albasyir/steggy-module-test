@@ -1,0 +1,24 @@
+{
+  "name": "steggy-noencrypt-module-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albasyir/steggy-noencrypt-module-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albasyir/steggy-noencrypt-module-test/issues"
+  },
+  "homepage": "https://github.com/albasyir/steggy-noencrypt-module-test#readme",
+  "dependencies": {
+    "steggy": "^2.0.1",
+    "steggy-noencrypt": "^2.0.3"
+  }
+}
